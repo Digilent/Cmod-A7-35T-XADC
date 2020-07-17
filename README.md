@@ -10,14 +10,14 @@ This project is a Vivado demo using the Cmod A7-35T's analog-to-digital converte
 Requirements
 --------------
 * **Cmod A7-35T**: To purchase a Cmod A7-35T, see the [Digilent Store](https://store.digilentinc.com/cmod-a7-breadboardable-artix-7-fpga-module/)
-* **Vivado 2018.2 Installation**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
+* **Vivado 2020.1 Installation**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
 * **MicroUSB Cable**
 * **Wires and a Circuit to Measure**
 
 Demo Setup
 --------------
 1. Download and extract the most recent release ZIP archive from this repository's [Releases Page](https://github.com/Digilent/Cmod-A7-35T-XADC/releases).
-2. Open the project in Vivado 2018.2 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Cmod-A7-35T-XADC.xpr".
+2. Open the project in Vivado 2020.1 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Cmod-A7-35T-XADC.xpr".
 3. In the Flow Navigator panel on the left side of the Vivado window, click **Open Hardware Manager**.
 4. Plug the Cmod A7-35T into the computer using a MicroUSB cable.
 5. In the green bar at the top of the window, click **Open target**. Select "Auto connect" from the drop down menu.
